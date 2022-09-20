@@ -1,16 +1,24 @@
 # flutter_transform
 
-A new Flutter project.
+Baggio Deroger
 
-## Getting Started
+Practicum:
 
-This project is a starting point for a Flutter application.
+1- Creating project and test running the app:
+![Installation](images/result1.PNG)
 
-A few resources to get you started if this is your first Flutter project:
+2- Using transform widget and adding perspective:
+![Installation](images/result2.PNG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3- Using GestureDetector widget:
+![Installation](images/result3.PNG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4- Implementing flip panel to create a countdown timer:
+![Installation](images/result4.PNG)
+
+5- adding the needed dependencies:
+![Installation](images/result6.PNG)
+
+6- Countdown timer running!
+![Installation](images/result5.PNG)
+
